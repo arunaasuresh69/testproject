@@ -1,6 +1,2 @@
-ls -l
-javac hello world.java
-java hello world
-
-:wq
-
+echo "this is a test run"
+  
